@@ -9,7 +9,6 @@ const items = [
   { thumbnail: { uri: 'https://cdn.pixabay.com/photo/2018/03/01/09/33/laptop-3190194_960_720.jpg' } },
   { thumbnail: { uri: 'https://cdn.pixabay.com/photo/2018/03/01/09/33/laptop-3190194_960_720.jpg' } },
   { thumbnail: { uri: 'https://cdn.pixabay.com/photo/2018/03/01/09/33/laptop-3190194_960_720.jpg' } },
-  { thumbnail: { uri: 'https://cdn.pixabay.com/photo/2018/03/01/09/33/laptop-3190194_960_720.jpg' } },
 ];
 
 export default class App extends Component {
